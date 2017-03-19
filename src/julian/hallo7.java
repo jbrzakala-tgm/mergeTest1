@@ -9,6 +9,7 @@ public class hallo7 {
 	public static void byby(){
 		System.out.println("Auf Wiedersehen...");
 		System.out.println("Auf Wiedersehen!!!!!!!");
+		System.out.println("Hallo, ich bin wiede hier 19.03.2017");
 	}
 	
 	public static void main(String[] args){
