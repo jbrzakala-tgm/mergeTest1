@@ -10,6 +10,7 @@ public class hallo7 {
 		System.out.println("Auf Wiedersehen...");
 		System.out.println("Auf Wiedersehen!!!!!!!");
 		System.out.println("eclips2");
+		System.out.println("Auf Wiedersehen nochmal !");
 		
 	}
 	
