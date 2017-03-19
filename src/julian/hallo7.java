@@ -12,6 +12,7 @@ public class hallo7 {
 		System.out.println("eclips2");
 		System.out.println("Auf Wiedersehen nochmal !");
 		
+		System.out.println("Hallo, ich bin wiede hier 19.03.2017");
 	}
 	
 	public static void main(String[] args){
